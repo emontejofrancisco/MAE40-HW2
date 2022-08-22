@@ -34,5 +34,5 @@ Rd = R/2
 
 final
 
-finalcircuit = (C*(R/2)*s + C*(R/2)*s + C*C*(2*R)*(R/2)*s^2 + 1)/(C*(2*R)*s + C*(R/2)*s + C*(R/2)*s + C*C*(2*R)*(R/2)*s^2 + 1)
+finalsimplify = (C*(R/2)*s + C*(R/2)*s + C*C*(2*R)*(R/2)*s^2 + 1)/(C*(2*R)*s + C*(R/2)*s + C*(R/2)*s + C*C*(2*R)*(R/2)*s^2 + 1)
 
